@@ -1,0 +1,16 @@
+{
+  "name": "@trickingapi/tricks-core-data",
+  "version": "1.0.0",
+  "description": "Npm package for consuming the raw tricking api data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trickingapi",
+    "tricking",
+    "data"
+  ],
+  "author": "Mikael Mantis",
+  "license": "MIT"
+}

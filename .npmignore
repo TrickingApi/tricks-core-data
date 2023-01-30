@@ -1,0 +1,14 @@
+/node_modules/
+/build/
+/lib/
+/docs/
+.idea/*
+
+.DS_Store
+coverage
+*.log
+
+.eslintrc.js
+yarn.lock
+/.github/
+json_parser.py
