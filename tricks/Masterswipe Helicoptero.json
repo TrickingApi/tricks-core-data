@@ -1,0 +1,1 @@
+{"id": "masterswipeHelicoptero", "name": "Masterswipe Helicoptero", "aliases": ["Master Helicoptero"], "categories": ["INSIDE"], "prereqs": ["Masterswipe", "Helicoptero"], "nextTricks": [], "description": "A Masterswipe that executes a Helicoptero before landing."}

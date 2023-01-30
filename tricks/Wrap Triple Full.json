@@ -1,0 +1,1 @@
+{"id": "wrapTripleFull", "name": "Wrap Triple Full", "aliases": [], "categories": ["INSIDE"], "prereqs": ["Wrap Double Full", "Triple Full"], "nextTricks": ["Wrap Double Full Snapu"], "description": "A Wrap Full with two extra rotations."}

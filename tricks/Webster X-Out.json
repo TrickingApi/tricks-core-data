@@ -1,0 +1,1 @@
+{"id": "websterXOut", "name": "Webster X-Out", "aliases": [], "categories": ["FORWARD"], "prereqs": ["Webster", "Front X-Out"], "nextTricks": [], "description": "A Webster with an x-out / straddle."}

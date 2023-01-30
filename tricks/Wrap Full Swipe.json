@@ -1,0 +1,1 @@
+{"id": "wrapFullSwipe", "name": "Wrap Full Swipe", "aliases": [], "categories": ["INSIDE"], "prereqs": ["Wrap Full", "Full Swipe"], "nextTricks": ["Wrap Full Snapu"], "description": "A Wrap Full that finishes with a swipe, landing in hyper."}

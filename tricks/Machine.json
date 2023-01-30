@@ -1,0 +1,1 @@
+{"id": "machine", "name": "Machine", "aliases": [], "categories": ["OUTSIDE"], "prereqs": [""], "nextTricks": [], "description": "A Spyder with hands."}
