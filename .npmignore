@@ -12,3 +12,4 @@ coverage
 yarn.lock
 /.github/
 json_parser.py
+exports-helper.js
