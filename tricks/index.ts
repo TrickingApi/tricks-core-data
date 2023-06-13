@@ -118,7 +118,6 @@ export const trCheat900Rodeo: Trick = require('./data/cheat900Rodeo.json');
 export const trCheat900Sidekick: Trick = require('./data/cheat900Sidekick.json');
 export const trCheatDoubleHook: Trick = require('./data/cheatDoubleHook.json');
 export const trCheatFeilong: Trick = require('./data/cheatFeilong.json');
-export const trCork: Trick = require('./data/cork.json');
 export const trCorkscrew: Trick = require('./data/corkscrew.json');
 export const trCorkscrewCrowdAwakener: Trick = require('./data/corkscrewCrowdAwakener.json');
 export const trCorkscrewCrowdAwakenerHyper: Trick = require('./data/corkscrewCrowdAwakenerHyper.json');
